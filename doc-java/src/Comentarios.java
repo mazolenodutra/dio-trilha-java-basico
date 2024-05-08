@@ -6,6 +6,8 @@ public class Comentarios {
          * Eu sou um comentario
          * que posso ser mais detalhadod
          * quando necessário
+         * Para criar documentação em java use esse comando no terminal:
+         * javadoc -encoding UTF-8 -docencoding ISO-8859-1 -d ../docs src/*.java
          */
     }
 
